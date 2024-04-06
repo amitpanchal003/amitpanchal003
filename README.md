@@ -2,7 +2,7 @@
 <h3 align="center">A passionate DevOps engineer from Asia(Bharat))</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amitpanchal003" alt="amitpanchal003" /></a> </p>
+
 
 - 🌱 I’m currently learning **Go language**
 
